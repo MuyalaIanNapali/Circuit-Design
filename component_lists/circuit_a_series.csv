@@ -1,0 +1,5 @@
+Ref,Component,Value,Qty
+BT1,DC power supply (battery),125 V,1
+R1,Resistor,20 ohm,1
+R2,Resistor,30 ohm,1
+R3,Resistor,50 ohm,1

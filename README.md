@@ -16,8 +16,8 @@ The EasyEDA project `Circuit-Design` has one schematic per circuit: `Schematic1`
 - `PartB1_Circuit_a_Series_Schematic.pdf` - circuit (a) schematic
 - `PartB1_Circuit_b_Parallel_Schematic.pdf` - circuit (b) schematic
 - `PartB2_ESP32_DHT22_Schematic.pdf` - ESP32-WROOM-32 + DHT22 schematic
-- `images/` - the same schematics as PNG images
-- `component_lists/` - the component list for each schematic (CSV)
+- `images` - the same schematics as PNG images
+- `component_lists` - the component list for each schematic (CSV)
 
 ### ESP32 + DHT22 design summary
 - 5 V input (J1) -> AMS1117-3.3 (U2) -> 3.3 V rail (C1 10 uF in, C2 22 uF + C3 100 nF out)

@@ -1,0 +1,15 @@
+Ref,Component,Value / Part,Qty
+U1,ESP32 Wi-Fi/BT module,ESP32-WROOM-32,1
+U2,LDO voltage regulator 5V to 3.3V,AMS1117-3.3,1
+U3,Temperature & humidity sensor,DHT22 (AM2302),1
+J1,Power input connector,"5 V, 2-pin",1
+J2,UART programming header,"4-pin, 2.54 mm",1
+C1,Capacitor (regulator input),10 uF,1
+C2,Capacitor (regulator output),22 uF,1
+C3,Decoupling capacitor (3.3 V),100 nF,1
+C4,EN reset delay capacitor,1 uF,1
+C5,DHT22 decoupling capacitor,100 nF,1
+R1,EN pull-up resistor,10 kohm,1
+R2,DHT22 data pull-up resistor,10 kohm,1
+SW1,Push button (EN / RESET),Tactile switch,1
+SW2,Push button (BOOT / IO0),Tactile switch,1
